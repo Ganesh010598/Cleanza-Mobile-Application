@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "692662676447",
+    "firebase_url": "https://cleanza-app.firebaseio.com",
+    "project_id": "cleanza-app",
+    "storage_bucket": "cleanza-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692662676447:android:5c482911d21cff450af26a",
+        "android_client_info": {
+          "package_name": "com.fninja.cleanenza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692662676447-moqjem88lfi8pk2qhs2n1npo5nd0s7d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fninja.cleanenza",
+            "certificate_hash": "111ebe2a6d92d46f9643536eea9e0f985e64436a"
+          }
+        },
+        {
+          "client_id": "692662676447-lkd53judrfj18fhgtp59m4vh0jh1qait.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFY6U6yvLMSDbhFmahz2UxClHD5dueT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692662676447-lkd53judrfj18fhgtp59m4vh0jh1qait.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692662676447:android:565c01b6f650ecd40af26a",
+        "android_client_info": {
+          "package_name": "com.ganesh.testingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692662676447-lkd53judrfj18fhgtp59m4vh0jh1qait.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFY6U6yvLMSDbhFmahz2UxClHD5dueT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692662676447-lkd53judrfj18fhgtp59m4vh0jh1qait.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
